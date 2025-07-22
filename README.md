@@ -1,4 +1,4 @@
 # 👋 Hello World,
 I'm Omid, a passionate Flutter developer with a background in software engineering and almost two years of experience building impactful mobile apps. Over this time, I’ve also had the opportunity to work with teams as a leader to bring projects to life. My expertise includes building software solutions and developing hardware-software integrations that solve real-world problems. My interests include Flutter development, creating AI-powered applications, and exploring sustainable technology. I am multilingual, speaking English, Persian, and improving my German. Let’s collaborate and create something amazing! 🚀
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzbWQ2dHVzaDdkdWJkbTBvM3pqMGdjMzYzd3NvcXRuOG80aTFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rrLt0FcGrDeBq/giphy.gif" height="255" alt="failed to load gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzbWQ2dHVzaDdkdWJkbTBvM3pqMGdjMzYzd3NvcXRuOG80aTFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rrLt0FcGrDeBq/giphy.gif" height="155" alt="failed to load gif" />
