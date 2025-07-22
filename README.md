@@ -7,12 +7,12 @@ I'm Omid, a passionate Flutter developer with a background in software engineeri
 # 🌐 Socials:
 <p>
   <a href="https://www.linkedin.com/in/omidrabiei/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobina-jafarian" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omid Rabiei" height="30" width="40" />
   </a>
   <a href="https://t.me/itsomitt" target="blank">
-    <img src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" />
+    <img src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Omid Rabiei" />
   </a>
 </p>
 </div>
-
+Email: Omidra55@gmail.com
 <P align="right"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzbWQ2dHVzaDdkdWJkbTBvM3pqMGdjMzYzd3NvcXRuOG80aTFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rrLt0FcGrDeBq/giphy.gif" height="155" alt="failed to load gif" />
